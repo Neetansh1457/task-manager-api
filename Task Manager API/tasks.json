@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "taskID": 1,
+      "description": "Write a book on quantum physics",
+      "flag": false,
+      "title": "Work on the book"
+    },
+    {
+      "taskID": 2,
+      "title": "Take Photos",
+      "description": "Take 100 photos per week",
+      "flag": false
+    },
+    {
+      "taskID": 3,
+      "title": "Today's progress",
+      "description": "Write my today's progress",
+      "flag": true
+    }
+  ]
+}
